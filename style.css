@@ -1,0 +1,14 @@
+.navigation li{
+	text-decoration:none !important;
+	display:inline !important;
+}
+
+.navigation {
+	padding-top: 10px;
+	
+}
+
+.list-group {
+	
+	padding-top: 50px;
+}
